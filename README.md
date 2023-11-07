@@ -2,7 +2,7 @@
 <p>
 <div align="center">
   <a href="https://www.linkedin.com/in/sudip-shrestha-454876240/" rel="nofollow">
-  		<img alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  		<img alt="LinkedIn" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-transparent-PNG.png" style="max-width: 100%;">
 	</a>
 	<a href="https://discord.com/channels/fr1day" rel="nofollow">
 	 	<img alt=" Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
