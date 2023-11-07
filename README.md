@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/sudip-shrestha-454876240/" rel="nofollow">
   		<img alt="LinkedIn" width="30px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-transparent-PNG.png" style="max-width: 100%;">
 	</a>
-	<a href="https://discord.com/channels/fr1day" rel="nofollow">
-	 	<img alt=" Discord" width="30px" src="https://banner2.cleanpng.com/20180427/wvq/kisspng-discord-logo-computer-icons-reddit-zongzi-14-0-1-5ae3de249d00b2.2332496115248829806431.jpg" style="max-width: 100%;">
+	<a href="https://www.facebook.com/sudip.shrestha1111/" rel="nofollow">
+	 	<img alt=" Discord" width="30px" src="https://p7.hiclipart.com/preview/406/221/183/facebook-logo-social-media-computer-icons-icon-facebook-drawing.jpg" style="max-width: 100%;">
 	</a>
 </div>
 </p>
