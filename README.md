@@ -10,13 +10,7 @@
 </div>
 </p>
 
-<br/>
-<p align="center">
-  <a href="https://www.linkedin.com/in/Friday111/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Fr1day111&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">	  
-  </a>
-</p>
-<br>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Friday111/">
