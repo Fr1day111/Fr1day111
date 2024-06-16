@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋,I'm Sudip Shrestha</h1>
 <h3 align="left">A passionate Mobile Application developer from Nepal</h3>
-
  📫 How to reach me **nwrsudeep@gmail.com**
  
 <p align="left"><a href = "https://sudipshrestha111.com.np/">CheckOut My Portfolio</a></p>
